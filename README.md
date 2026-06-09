@@ -10,7 +10,7 @@
 
 ## Professional Summary
 
-Flutter / Mobile Application Developer with **4+ years of experience** (since 2022) designing, building and shipping **production mobile apps end-to-end** — from architecture and UI to backend, payments, CI/CD and store release. Lead or sole developer on **30+ Flutter applications**, several **live on the App Store and Google Play** — including a **carpooling app with ~37,000 App Store ratings (4.9★)** and a **safety app with 10,000+ downloads and national press coverage** — across ride-hailing & delivery, food, healthcare, mental wellness, personal safety, beauty, dating, sports, events and drone logging. **Authored the company’s shared Flutter base architecture** that 20+ client apps are built on. Comfortable owning the **full stack** — Flutter front-end, **Supabase** (PostgreSQL / RLS / Edge Functions), **Firebase**, **PHP/Laravel** and **Next.js** admin back-offices — delivering **multilingual (EN/FR)**, real-time, payment-enabled apps for iOS and Android.
+Flutter / Mobile Application Developer with **7+ years of experience** (since 2019) designing, building and shipping **production mobile apps end-to-end** — from architecture and UI to backend, payments, CI/CD and store release. Lead or sole developer on **30+ Flutter applications**, several **live on the App Store and Google Play** — including a **carpooling app with ~37,000 App Store ratings (4.9★)** and a **safety app with 10,000+ downloads and national press coverage** — across ride-hailing & delivery, food, healthcare, mental wellness, personal safety, beauty, dating, sports, events, music, transport ticketing and drone logging. **Authored the company’s shared Flutter base architecture** that 20+ client apps are built on. Comfortable owning the **full stack** — Flutter front-end, **Supabase** (PostgreSQL / RLS / Edge Functions), **Firebase**, **PHP/Laravel** and **Next.js** admin back-offices — delivering **multilingual (EN/FR)**, real-time, payment-enabled apps for iOS and Android.
 
 ---
 
@@ -18,13 +18,13 @@ Flutter / Mobile Application Developer with **4+ years of experience** (since 20
 
 | Area | Technologies & Libraries |
 | --- | --- |
-| **Languages** | Dart, TypeScript, SQL (PostgreSQL/PLpgSQL), PHP, Kotlin & Swift (platform channels), C/C++ (FFI) |
-| **Mobile** | Flutter (iOS & Android), Material/Cupertino, responsive & adaptive UI, custom animations (Lottie, animate_do), platform channels, push & local notifications |
-| **State / Architecture** | MVVM (BaseViewModel + page mixins), Clean Architecture, modular monorepo; Provider, GetX, Stacked; dependency injection (get_it, injectable); code generation (build_runner, json_serializable, auto_route, intl_utils) |
+| **Languages** | Dart, TypeScript, JavaScript, SQL (PostgreSQL/PLpgSQL), PHP, Kotlin & Swift (platform channels), C/C++ (FFI) |
+| **Mobile** | Flutter (iOS & Android), Material/Cupertino, responsive & adaptive UI, custom animations (Lottie, animate_do), platform channels, push & local notifications; React Native (cross-platform) |
+| **State / Architecture** | MVVM (BaseViewModel + page mixins), Clean Architecture, MVC, MVP, modular monorepo; Provider, GetX, BLoC, Stacked; dependency injection (get_it, injectable); code generation (build_runner, json_serializable, auto_route, intl_utils) |
 | **Navigation** | auto_route |
 | **Networking** | dio + retrofit, REST, interceptors / smart retry; WebSocket / Socket.IO |
 | **Realtime / Comms** | Agora (RTC/RTM/Chat), WebRTC (ConnectyCube), SignalR (.NET), Socket.IO, OpenAI Realtime (voice/WebRTC) |
-| **Backend & Data** | Supabase (PostgreSQL, Row-Level Security, Edge Functions / Deno + TypeScript, Storage/GoTrue/PostgREST), Firebase (Auth, Firestore, Storage, Messaging, Dynamic Links, Analytics), PHP / Laravel, REST APIs |
+| **Backend & Data** | Supabase (PostgreSQL, Row-Level Security, Edge Functions / Deno + TypeScript, Storage/GoTrue/PostgREST), Firebase (Auth, Firestore, Storage, Messaging, Dynamic Links, Analytics), PHP / Laravel, .NET Core, Node.js, REST APIs; MySQL, MongoDB, MS SQL Server |
 | **Maps & Location** | Google Maps, geolocator, geocoding, marker clustering, static maps, maps_toolkit |
 | **Payments / Monetization** | Stripe (flutter_stripe), RevenueCat subscriptions (purchases_flutter), in-app review |
 | **AI / Media** | OpenAI realtime voice assistant, speech-to-text / TTS, Unity 3D embed; camerawesome, image/video pickers & editors, just_audio, audio_waveforms, video_player/chewie |
@@ -32,14 +32,14 @@ Flutter / Mobile Application Developer with **4+ years of experience** (since 20
 | **i18n** | intl / intl_utils (ARB), full English & French localization |
 | **Growth / Analytics** | AppsFlyer, Firebase Analytics, Branch & Firebase Dynamic Links, Facebook & TikTok event SDKs |
 | **Web / Admin** | Next.js 15, React, TypeScript |
-| **Tooling / DevOps** | Git & GitLab CI/CD, Fastlane, FVM, Jira, Conventional Commits, App Store Connect & Google Play Console releases |
+| **Tooling / DevOps** | Git & GitLab CI/CD, Fastlane, FVM, Figma, Jira, Trello, Conventional Commits, App Store Connect & Google Play Console releases |
 
 ---
 
 ## Professional Experience
 
 ### Flutter / Mobile Developer — Digital Unicorn
-*2022 – Present · Mobile app & web agency (France / Vietnam)*
+*2019 – Present · Mobile app & web agency (France / Vietnam)*
 
 - **Lead developer of the DUOCT “Octopus” super-app** — a multi-service platform (ride booking, food/parcel delivery, courier dispatch) built as a **Flutter + Next.js + Supabase** monorepo with Stripe payments and Row-Level-Security multi-tenant data isolation.
 - **Sole or lead developer on 25+ production Flutter apps**, several **published to the App Store & Google Play** — including **SecuMap (10,000+ downloads, covered by French national press)**, ProtectU, Octopush, Carter, Nila Sphere, Docteur Sirop and Mentalia.
@@ -47,11 +47,6 @@ Flutter / Mobile Application Developer with **4+ years of experience** (since 20
 - **Integrated advanced, varied capabilities** across apps: real-time location & messaging (SignalR, Socket.IO, Agora), AI voice assistants (OpenAI Realtime + Unity 3D), WebRTC video consultations, Stripe & RevenueCat monetization, and crowd-sourced mapping.
 - **Delivered full EN/FR localization** and store-compliant builds (App Tracking Transparency, permissions, privacy) for the French and international markets.
 - **Owned end-to-end delivery**: requirements (Jira) → Flutter UI → Supabase/Firebase/Laravel backend → CI/CD (Fastlane) → store submission, under a Conventional-Commits and security-review workflow.
-
-### Mobile Developer — Ynstant
-*[Year – Year] · Carpooling / mobility startup (France)*
-
-- Contributed to **Ynstant – Smart Carpooling**, a France-focused daily ridesharing app live on **iOS & Android** with **~37,000 App Store ratings (4.9★)** and **~14,500 Google Play ratings** — matching drivers and passengers along their route, with instant booking, real-time ride alerts, in-app messaging, verified-identity members and automatic distance-based pricing.
 
 ---
 
@@ -71,9 +66,10 @@ The company’s shared Flutter foundation that **every new client app is forked 
 
 ### 📱 Published apps — live on the App Store & Google Play
 
-**Ynstant — Carpooling / ridesharing app** · *Mobile Developer · [Year – Year]* · ⭐ **~37,000 App Store ratings (4.9★) · ~14,500 Google Play ratings**
+**Ynstant — Carpooling / ridesharing app** · *Flutter Developer · 2023* · ⭐ **~37,000 App Store ratings (4.9★) · ~14,500 Google Play ratings**
 🍏 [App Store](https://apps.apple.com/us/app/ynstant-carpooling/id1610500828) · 🤖 Google Play `dev.ynstant.moove`
 France-focused daily carpooling platform matching drivers and passengers along their route: instant trip posting, real-time ride alerts, in-app messaging, verified-identity members, automatic distance-based pricing and refundable cancellations. The most-rated app in this portfolio.
+**Tech:** Flutter (iOS & Android) · Google Maps + geolocation · real-time ride matching · in-app messaging · payments.
 
 **SecuMap — Safety navigation app** · *Sole Developer · 2023 – 2025* · ⭐ **10,000+ downloads · featured in French national press (Le JDD)**
 🍏 [App Store](https://apps.apple.com/fr/app/secumap/id6447151691) · 🤖 Google Play `com.du.secumap`
@@ -172,11 +168,17 @@ Relationship app (shared calendar, milestones, photos) paired with a dedicated s
 
 **Adress — Restaurant / visitor app** · *Contributor · 2025 – 2026* — enterprise/visitor app with **QR & ID-card scanning** and guest flows. **Tech:** Flutter · mobile_scanner · flutter_cardidy · Firebase Realtime DB · audio_service.
 
+**KEYM — Music app** · *Flutter Developer · 2023* — music streaming / discovery app. **Tech:** Flutter · audio playback · REST · Firebase.
+
+**Bus ticketing app** · *Flutter Developer · 2021* — transport ticket booking & scheduling app. **Tech:** Flutter · REST · payments.
+
+**Medical clinic management** · *Flutter Developer · 2019 – 2020* — clinic / patient management app (early Flutter project). **Tech:** Flutter · REST.
+
 ---
 
 ## Education
 
-**[Degree, e.g. B.Sc. in Computer Science / Software Engineering]** — [University] · [Year – Year]
+**Software Engineering** — Duy Tan University, Da Nang, Vietnam · [Year – Year]
 
 ---
 
