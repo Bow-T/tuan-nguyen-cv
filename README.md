@@ -10,7 +10,7 @@
 
 ## Professional Summary
 
-Flutter / Mobile Application Developer with **7+ years of experience** (since 2019) designing, building and shipping **production mobile apps end-to-end** — from architecture and UI to backend, payments, CI/CD and store release. Lead or sole developer on **30+ Flutter applications**, several **live on the App Store and Google Play** — including a **carpooling app with ~37,000 App Store ratings (4.9★)** and a **safety app with 10,000+ downloads and national press coverage** — across ride-hailing & delivery, food, healthcare, mental wellness, personal safety, beauty, dating, sports, events, music, transport ticketing and drone logging. **Authored the company’s shared Flutter base architecture** that 20+ client apps are built on. Comfortable owning the **full stack** — Flutter front-end, **Supabase** (PostgreSQL / RLS / Edge Functions), **Firebase**, **PHP/Laravel** and **Next.js** admin back-offices — delivering **multilingual (EN/FR)**, real-time, payment-enabled apps for iOS and Android.
+Flutter / Mobile Application Developer with **7+ years of experience** (since 2019) designing, building and shipping **production mobile apps end-to-end** — from architecture and UI to backend, payments, CI/CD and store release. Lead or sole developer on **30+ Flutter applications**, several **live on the App Store and Google Play** — including a **carpooling app with ~37,000 App Store ratings (4.9★)** and a **safety app with 10,000+ downloads and national press coverage** — across ride-hailing & delivery, food, healthcare, mental wellness, personal safety, beauty, dating, sports, events, music, transport ticketing and drone logging. **Authored the company’s shared Flutter base architecture** that 20+ client apps are built on. Strong at integrating Flutter apps with **Firebase** and **Supabase** backends and **Stripe** payments, and delivering **multilingual (EN/FR)**, real-time, payment-enabled apps for iOS and Android.
 
 ---
 
@@ -18,20 +18,19 @@ Flutter / Mobile Application Developer with **7+ years of experience** (since 20
 
 | Area | Technologies & Libraries |
 | --- | --- |
-| **Languages** | Dart, TypeScript, JavaScript, SQL (PostgreSQL/PLpgSQL), PHP, Kotlin & Swift (platform channels), C/C++ (FFI) |
+| **Languages** | Dart (primary), TypeScript, JavaScript, SQL, Kotlin & Swift (platform channels), C/C++ (FFI) |
 | **Mobile** | Flutter (iOS & Android), Material/Cupertino, responsive & adaptive UI, custom animations (Lottie, animate_do), platform channels, push & local notifications; React Native (cross-platform) |
 | **State / Architecture** | MVVM (BaseViewModel + page mixins), Clean Architecture, MVC, MVP, modular monorepo; Provider, GetX, BLoC, Stacked; dependency injection (get_it, injectable); code generation (build_runner, json_serializable, auto_route, intl_utils) |
 | **Navigation** | auto_route |
 | **Networking** | dio + retrofit, REST, interceptors / smart retry; WebSocket / Socket.IO |
-| **Realtime / Comms** | Agora (RTC/RTM/Chat), WebRTC (ConnectyCube), SignalR (.NET), Socket.IO, OpenAI Realtime (voice/WebRTC) |
-| **Backend & Data** | Supabase (PostgreSQL, Row-Level Security, Edge Functions / Deno + TypeScript, Storage/GoTrue/PostgREST), Firebase (Auth, Firestore, Storage, Messaging, Dynamic Links, Analytics), PHP / Laravel, .NET Core, Node.js, REST APIs; MySQL, MongoDB, MS SQL Server |
+| **Realtime / Comms** | Agora (RTC/RTM/Chat), WebRTC (ConnectyCube), SignalR, Socket.IO, OpenAI Realtime (voice/WebRTC) |
+| **Backend (integration)** | Firebase (Auth, Firestore, Storage, Messaging, Dynamic Links, Analytics), Supabase (Postgres, Row-Level Security, Edge Functions), REST API integration |
 | **Maps & Location** | Google Maps, geolocator, geocoding, marker clustering, static maps, maps_toolkit |
 | **Payments / Monetization** | Stripe (flutter_stripe), RevenueCat subscriptions (purchases_flutter), in-app review |
 | **AI / Media** | OpenAI realtime voice assistant, speech-to-text / TTS, Unity 3D embed; camerawesome, image/video pickers & editors, just_audio, audio_waveforms, video_player/chewie |
 | **Auth** | Email/OTP, Google, Apple, Facebook Sign-In, Firebase Auth, secure storage |
 | **i18n** | intl / intl_utils (ARB), full English & French localization |
 | **Growth / Analytics** | AppsFlyer, Firebase Analytics, Branch & Firebase Dynamic Links, Facebook & TikTok event SDKs |
-| **Web / Admin** | Next.js 15, React, TypeScript |
 | **Tooling / DevOps** | Git & GitLab CI/CD, Fastlane, FVM, Figma, Jira, Trello, Conventional Commits, App Store Connect & Google Play Console releases |
 
 ---
@@ -46,7 +45,7 @@ Flutter / Mobile Application Developer with **7+ years of experience** (since 20
 - **Authored and maintained the company’s shared Flutter base architecture / starter template** (MVVM BaseViewModel + page mixins, shared models/services/theme/i18n package, `auto_route` + Provider + `get_it`, `build_runner` codegen) — adopted by **20+ client apps**, turning weeks of project setup into a same-day start and standardizing engineering quality across the company.
 - **Integrated advanced, varied capabilities** across apps: real-time location & messaging (SignalR, Socket.IO, Agora), AI voice assistants (OpenAI Realtime + Unity 3D), WebRTC video consultations, Stripe & RevenueCat monetization, and crowd-sourced mapping.
 - **Delivered full EN/FR localization** and store-compliant builds (App Tracking Transparency, permissions, privacy) for the French and international markets.
-- **Owned end-to-end delivery**: requirements (Jira) → Flutter UI → Supabase/Firebase/Laravel backend → CI/CD (Fastlane) → store submission, under a Conventional-Commits and security-review workflow.
+- **Owned end-to-end delivery**: requirements (Jira) → Flutter UI → backend integration (Firebase / Supabase) → CI/CD (Fastlane) → store submission, under a Conventional-Commits and security-review workflow.
 
 ---
 
@@ -157,8 +156,8 @@ Two-sided barber/salon booking platform: bookings, checkout, e-services, salons,
 **Tech:** Flutter · **GetX** (get/get_storage) · dio + http cache · Firebase + Firestore + Storage · Google Maps + place picker · carousel · OTP.
 
 **Dear — Couple / relationship app + backend** · *Contributor · 2025*
-Relationship app (shared calendar, milestones, photos) paired with a dedicated server.
-**Tech (mobile):** Flutter · table_calendar · phone_form_field + pinput · scroll_datetime_picker · Google Maps · animations + confetti. **Backend:** **PHP / Laravel (Blade)**.
+Relationship app: shared calendar, milestones and photos.
+**Tech:** Flutter · table_calendar · phone_form_field + pinput · scroll_datetime_picker · Google Maps · animations + confetti.
 
 **ShapeUp — Fitness app** · *Contributor · 2025 – 2026* — workout app with real-time features, maps and gamified progress. **Tech:** Flutter · SignalR · Firestore · Google Maps · confetti.
 
