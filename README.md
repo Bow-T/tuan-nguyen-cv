@@ -71,67 +71,67 @@ The company's shared Flutter foundation that **every new client app is forked fr
 ### 📱 Published apps — live on the App Store & Google Play
 
 **Ynstant — Carpooling / ridesharing app** · *Flutter Developer · 2023* · ⭐ **~37,000 App Store ratings (4.9★) · ~14,500 Google Play ratings**
-🍏 [App Store](https://apps.apple.com/us/app/ynstant-carpooling/id1610500828) · 🤖 Google Play `dev.ynstant.moove`
+🍏 [App Store](https://apps.apple.com/us/app/ynstant-carpooling/id1610500828) · 🤖 [Google Play](https://play.google.com/store/apps/details?id=dev.ynstant.moove)
 France-focused daily carpooling for weekend getaways and holidays with **0% service fees**: drivers post a ride in under 30 seconds and get bookings from verified passengers, while passengers book instantly or set alerts for matching rides — with in-app messaging and automatic distance-based pricing. The most-rated app in this portfolio.
 **Tech:** Flutter (iOS & Android) · Google Maps + geolocation · real-time ride matching · in-app messaging · payments.
 
 **SecuMap — Safety navigation app** · *Sole Developer · 2023 – 2025* · ⭐ **10,000+ downloads · featured in French national press (Le JDD)**
-🍏 [App Store](https://apps.apple.com/fr/app/secumap/id6447151691) · 🤖 Google Play `com.du.secumap`
+🍏 [App Store](https://apps.apple.com/fr/app/secumap/id6447151691) · 🤖 [Google Play](https://play.google.com/store/apps/details?id=com.du.secumap)
 Free French safety-GPS to walk safely across France: a **real-time interactive map** crowd-sourced from thousands of users that flags dangerous and poorly-lit streets and **automatically re-routes** you around reported dangers; report incidents anonymously and save favourite addresses, with nationwide coverage. The most-adopted app in this portfolio.
 **Tech:** Flutter · Google Maps + **maps_toolkit** + geocoding (routing/geofencing) · WebSocket (live reports) · Firebase Dynamic Links · deep links.
 
 **KEYM — Musical social network** · *Flutter Developer · 2023* · **5,000+ downloads**
-🤖 Google Play `keymmusic.com.keym`
+📦 [apkcombo](https://apkcombo.com/keym-reseau-social-musical/keymmusic.com.keym/)
 A music social network *"by artists, for artists"* connecting musicians, singers, producers, sound engineers, photographers and videographers: build a **multi-format (visual + audio) portfolio**, search talent by skills and artistic universe, and connect with complementary professionals to collaborate and grow your music career.
 **Tech:** Flutter · audio/video media portfolio · in-app messaging · REST / Firebase.
 
 **ProtectU — Personal-safety app** · *Sole Developer · 2025* · **1,000+ downloads**
-🍏 [App Store](https://apps.apple.com/us/app/protectu/id6743616393) · 🤖 Google Play `com.protectu.fr`
+🍏 [App Store](https://apps.apple.com/us/app/protectu/id6743616393) · 🤖 [Google Play](https://play.google.com/store/apps/details?id=com.protectu.fr)
 French citizen-safety app to **see, understand and act on risky situations in real time**: an interactive incident map, guidance to nearby safe places (hospitals, police, defibrillators), nearby ProtectU users on the map, live-location sharing and secure messaging to trusted contacts — turning your surroundings into an active protection network.
 **Tech:** Flutter · **SignalR** (real-time) · Google Maps + geolocator · Firebase · crypto · AppsFlyer + Facebook + TikTok event SDKs · RevenueCat.
 
 **Octopush — Business messenger** · *Lead Developer · 2024 – 2026*
-🍏 [App Store](https://apps.apple.com/us/app/octopush/id6711331710) · 🤖 Google Play `com.du.octopush`
+🍏 [App Store](https://apps.apple.com/us/app/octopush/id6711331710) · 🤖 [Google Play](https://play.google.com/store/apps/details?id=com.du.octopush)
 Customer-conversation **messenger** for the Octopush (Marseille) multichannel/SMS platform: the team handles all customer conversations and live chat from one app, with push notifications — improving response time and customer relationships.
 **Tech:** Flutter · adaptive_theme · flutter_libphonenumber + multi-formatter · dio + retrofit · Firebase Messaging · shimmer.
 
 **Carter — Basketball club-management app** · *Lead Developer · 2022 – 2024*
-🍏 [App Store](https://apps.apple.com/fr/app/carter-coaching/id6443718007) · 🤖 Google Play `com.du.carter`
+🍏 [App Store](https://apps.apple.com/fr/app/carter-coaching/id6443718007) · 🤖 [Google Play](https://play.google.com/store/apps/details?id=com.du.carter)
 Basketball app for **managers, coaches and players**: a team-management tool that saves time on season organisation — rosters, player positions, events, training sessions, attendance, standings, an exercise library and tactical boards — and boosts player progression through coach feedback and a **play-to-earn** gamified reward system, with club/team creation, individual coaching and subscriptions.
 **Tech:** Flutter · dio + retrofit · Firebase Messaging + **Dynamic Links** · Google Maps + geocoding · **Socket.IO** (realtime) · pie_chart · scrollable_positioned_list.
 
 **Beauty Squad — On-demand beauty booking** · *Sole Developer · 2024 – 2025*
-🤖 Google Play `com.beautysquaduser`
+📦 [apkcombo](https://apkcombo.com/beauty-squad/com.beautysquaduser/)
 On-demand **at-home beauty** marketplace (client + salon): book experienced pros for hair, makeup, skincare, massage, nails, coaching and even a photographer; browse and filter services, multi-step booking & checkout (**Stripe / PayPal / wallet**), salon profiles, availability and galleries, with in-app chat — while pros manage their salon, services and schedule.
 **Tech:** Flutter · date_picker_timeline · Firestore + Firebase Storage · Google Maps · flutter_stripe · PayPal · booking & chat modules.
 
 **Mentalia — Mental-wellness app** · *Lead Developer · 2023 – 2024*
-🤖 Google Play `com.mentalia.app` *(Digital Unicorn account)*
+🤖 [Google Play](https://play.google.com/store/apps/details?id=com.mentalia.app) *(Digital Unicorn account)*
 AI-powered **mental-preparation & well-being** app: chat with a caring **AI virtual coach** for constant support toward your goals; a question-driven flow suggests the right content from an audio, PDF and video library, and **generative-AI recommendations** evolve with your progress.
 **Tech:** Flutter · just_audio (meditation audio) · Socket.IO + WebSocket (chat) · Syncfusion PDF viewer · animated_text_kit · Firebase Auth · dio + retrofit.
 
 **Nila Sphere — Carbon-footprint tracker** · *Sole Developer · 2026*
-🍏 [App Store](https://apps.apple.com/us/app/nila-sphere/id6754004164) · 🤖 Google Play `com.nilasphere.fr`
+🍏 [App Store](https://apps.apple.com/us/app/nila-sphere/id6754004164) · 🤖 [Google Play](https://play.google.com/store/apps/details?id=com.nilasphere.fr)
 Carbon-footprint app for **carbon neutrality**: measure the CO₂ impact of daily tasks, track weekly emissions and a carbon score, complete **green challenges** to win partner gifts, discover greener consumption alternatives, and share eco achievements on a dedicated social feed — with environmental news and tips.
 **Tech:** Flutter · **fl_chart** (impact visualizations) · camerawesome · AppsFlyer · RevenueCat · Lottie.
 
 **Docteur Sirop — Children's health AI companion** · *Sole Developer · 2025 – 2026*
-🤖 Google Play `com.doctorsyrup.app` *(Digital Unicorn account)*
+🤖 [Google Play](https://play.google.com/store/apps/details?id=com.doctorsyrup.app) *(Digital Unicorn account)*
 AI health companion for **hospitalized children**: helps the child understand their hospital environment and care team through **real-time voice conversations with an AI doctor**, daily mood check-ins and questions, a relaxation *"espace zen"* and interactive stories, plus a reward system that makes the child an active participant in their care — also a communication tool with caregivers.
 **Tech:** Flutter · **OpenAI Realtime (openai_core + openai_webrtc)** · speech_to_text + flutter_tts + just_audio (voice) · **flutter_embed_unity** (Unity 3D character) · dio + retrofit · Firebase Auth.
 
 **Arage — Local events discovery** · *Sole Developer · 2024 – 2025*
-🤖 Google Play `com.arage.app`
+📦 [apkcombo](https://apkcombo.com/arage/com.arage.app/)
 Local-events app that connects you to your community: **discover events on an interactive map**, create and manage your own, follow upcoming regional events, filter and join in a few clicks, with attendee profiles, favourites and subscriptions.
 **Tech:** Flutter · Google Maps + static maps · Firestore · auto_route, Provider, get_it · AppsFlyer · RevenueCat.
 
 **Let Share — Student peer-to-peer sharing app** · *Core Contributor · 2026*
-🤖 Google Play `com.letshare.app`
+📦 [apkcombo](https://apkcombo.com/let-share/com.letshare.app/)
 Student/community app to discover **local projects and initiatives** via a geolocated **swipe** feed: create fully-customised projects (title, photos, theme), approve participants manually, and chat in real time (group & private) — with push notifications and report/block moderation.
 **Tech:** Flutter · auto_route, Provider, get_it · dio + retrofit · Firebase · Google Maps · **Socket.IO** (chat) · wechat_assets_picker · stylish_bottom_bar · RevenueCat.
 
 **Spaurt — Sports-training app** · *Sole Developer · 2025 – 2026*
-🍏 [App Store](https://apps.apple.com/fr/app/spaurt/id6743203018) · 🤖 Google Play `com.spaurt.app`
+🍏 [App Store](https://apps.apple.com/fr/app/spaurt/id6743203018) · 🤖 [Google Play](https://play.google.com/store/apps/details?id=com.spaurt.app)
 Hybrid **sports-training** app with personalized coaching built around four pillars (strength, body control, endurance, conditioning): personalized rep- and time-based **workout routines**, a routine library, **1-rep-max & personal-record** tracking, physical tests, goals and statistics, calendar scheduling, session badges and rewards.
 **Tech:** Flutter · fl_chart + sleek_circular_slider (stats) · qr_flutter · calendar_date_picker2 · tutorial_coach_mark · in_app_review · just_audio.
 
