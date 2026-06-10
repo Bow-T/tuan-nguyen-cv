@@ -10,7 +10,7 @@
 
 ## Professional Summary
 
-Flutter / Mobile Application Developer with **6+ years of experience** (since 2020) designing, building and shipping **production mobile apps end-to-end** — from architecture and UI to backend integration, payments, CI/CD and store release. Lead or sole developer on **30+ Flutter applications**, several **live on the App Store and Google Play** — including a **carpooling app with ~37,000 App Store ratings (4.9★)** and a **safety app with 10,000+ downloads and national press coverage** — across ride-hailing & delivery, food, healthcare, mental wellness, personal safety, beauty, dating, sports, events and drone logging. **Authored the company's shared Flutter base architecture** that 20+ client apps are built on. Strong at integrating Flutter apps with **Firebase** and **Supabase** backends and **Stripe** payments, and delivering **multilingual (EN/FR)**, real-time, payment-enabled apps for iOS and Android.
+Flutter / Mobile Application Developer with **6+ years of experience** (since 2020) designing, building and shipping **production mobile apps end-to-end** — from architecture and UI to backend integration, payments, CI/CD and store release. Lead or sole developer on **30+ Flutter applications**, several **live on the App Store and Google Play** — including a **carpooling app with ~37,000 App Store ratings (4.9★)** and a **safety app with 10,000+ downloads and national press coverage** — across ride-hailing & delivery, food, healthcare, mental wellness, personal safety, beauty, dating, music, sports, events and drone logging. **Authored the company's shared Flutter base architecture** that 20+ client apps are built on. Strong at integrating Flutter apps with **Firebase** and **Supabase** backends and **Stripe** payments, and delivering **multilingual (EN/FR)**, real-time, payment-enabled apps for iOS and Android.
 
 ---
 
@@ -79,6 +79,11 @@ France-focused daily carpooling for weekend getaways and holidays with **0% serv
 🍏 [App Store](https://apps.apple.com/fr/app/secumap/id6447151691) · 🤖 Google Play `com.du.secumap`
 Free French safety-GPS to walk safely across France: a **real-time interactive map** crowd-sourced from thousands of users that flags dangerous and poorly-lit streets and **automatically re-routes** you around reported dangers; report incidents anonymously and save favourite addresses, with nationwide coverage. The most-adopted app in this portfolio.
 **Tech:** Flutter · Google Maps + **maps_toolkit** + geocoding (routing/geofencing) · WebSocket (live reports) · Firebase Dynamic Links · deep links.
+
+**KEYM — Musical social network** · *Flutter Developer · 2023* · **5,000+ downloads**
+🤖 Google Play `keymmusic.com.keym`
+A music social network *"by artists, for artists"* connecting musicians, singers, producers, sound engineers, photographers and videographers: build a **multi-format (visual + audio) portfolio**, search talent by skills and artistic universe, and connect with complementary professionals to collaborate and grow your music career.
+**Tech:** Flutter · audio/video media portfolio · in-app messaging · REST / Firebase.
 
 **ProtectU — Personal-safety app** · *Sole Developer · 2025* · **1,000+ downloads**
 🍏 [App Store](https://apps.apple.com/us/app/protectu/id6743616393) · 🤖 Google Play `com.protectu.fr`
