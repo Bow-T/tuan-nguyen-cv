@@ -194,4 +194,4 @@ Personal Flutter project — a medical / clinic management app (Vietnamese *"y k
 
 ---
 
-<sub>Store links verified via App Store / Google Play; download figures from Google Play. Project features described from each app's source. Bracketed fields are placeholders to complete before sending.</sub>
+<sub>Store links verified via App Store / Google Play; download figures from Google Play. Project features described from each app's source.</sub>
