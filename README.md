@@ -19,7 +19,7 @@ Flutter / Mobile Application Developer with **6+ years of experience** (since 20
 | Area | Technologies & Libraries |
 | --- | --- |
 | **Languages** | Dart (primary), TypeScript, JavaScript, SQL, Kotlin & Swift (platform channels), C/C++ (FFI) |
-| **Mobile** | Flutter (iOS & Android), Material/Cupertino, responsive & adaptive UI, custom animations (Lottie, animate_do), platform channels, push & local notifications; React Native (cross-platform) |
+| **Mobile** | Flutter (iOS & Android), Material/Cupertino, responsive & adaptive UI, custom animations (Lottie, animate_do), platform channels, push & local notifications |
 | **State / Architecture** | MVVM (BaseViewModel + page mixins), Clean Architecture, MVC, MVP, modular monorepo; Provider, GetX, BLoC, Stacked; dependency injection (get_it, injectable); code generation (build_runner, json_serializable, auto_route, intl_utils) |
 | **Navigation** | auto_route |
 | **Networking** | dio + retrofit, REST, interceptors / smart retry; WebSocket / Socket.IO |
@@ -31,7 +31,7 @@ Flutter / Mobile Application Developer with **6+ years of experience** (since 20
 | **Auth** | Email/OTP, Google, Apple, Facebook Sign-In, Firebase Auth, secure storage |
 | **i18n** | intl / intl_utils (ARB), full English & French localization |
 | **Growth / Analytics** | AppsFlyer, Firebase Analytics, Branch & Firebase Dynamic Links, Facebook & TikTok event SDKs |
-| **Tooling / DevOps** | Git & GitLab/GitHub CI/CD, Fastlane, FVM, Figma, Jira, Trello, Conventional Commits, App Store Connect & Google Play Console |
+| **Tooling / DevOps** | Git & GitLab/GitHub CI/CD, Fastlane, Codemagic, FVM, Figma, Jira, Trello, Conventional Commits, App Store Connect & Google Play Console |
 
 ---
 
